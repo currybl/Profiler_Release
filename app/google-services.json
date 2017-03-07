@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752772197277",
+    "firebase_url": "https://profiler-d716a.firebaseio.com",
+    "project_id": "profiler-d716a",
+    "storage_bucket": "profiler-d716a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752772197277:android:4897358380c379ae",
+        "android_client_info": {
+          "package_name": "com.brandoncurry.profiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752772197277-4oo8m6ae8jrcr7lm4lliql0h023tb96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayKT3hgQ4MEAmhT7EZAWgjGqq8akzsl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
